@@ -1,0 +1,39 @@
+
+
+body{
+            text-align:center;
+            background-color: aqua;
+            font-family: helvetica;
+            color:red;
+            padding: 150px;
+            font-size: 23;
+            border: 2px red dotted;
+            background-image: url("border-image1.jpg");
+            background-size: cover;
+                
+            
+        }
+    
+        ul{
+           padding: 10px;
+        }
+
+img{
+    margin-top: 40px;
+    border: 10px darkblue solid;
+    border-radius: 40px;
+}
+
+ul{
+    padding-left: 320px;
+    padding-right: 320px;
+    list style:disc;   
+}
+
+ol{
+    padding-left: 320px;
+    padding-right: 320px;
+    list style:lower-roman;   
+}
+        
+    
